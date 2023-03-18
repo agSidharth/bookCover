@@ -8,4 +8,5 @@ You can find the
 5. transformer + efficientNet implementation in efficientnet.iypnb
 and the code to test/ generate the output files in testing.iypnb
 
-For more details, see the online kaggle contest https://www.kaggle.com/competitions/col774-2022
+For more details, see the online kaggle contest https://www.kaggle.com/competitions/col774-2022.
+You can see our team in leaderboard "naive bhais"
